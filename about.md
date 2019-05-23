@@ -4,4 +4,8 @@ title: About
 comments: true
 ---
 
-StudyShare is a startup that connects students of approved ISA schools (Like LambdaSchool) with housing and cost of living assistance while in school. People interested in hosting students have the opportunity to earn a stream of income that is more steady than AirBnB but more flexible than traditional tenants.
+StudyShare is a generalized cohort platform. Allowing anyone or any organization to create a cohort program will unlock
+untold amounts of human potential and connection.
+
+We're focused on building the best place to find and build deep connections with others who want are interested in the
+same things they are. 
