@@ -1,20 +1,14 @@
 ---
 layout: post
-title:  "How does StudyShare work?"
+title:  "StudyShare for Students"
 categories: [ ISA, Cost of Living , Lambda School ]
 image: assets/images/1.jpg
 featured: true
 ---
-StudyShare cohorts consist of two types of people, Students and Subject Matter Experts(SMES).
-The students of a given cohort will be in a closed group that doesn't change through the
-length of the program. There will be one dedicated SME for each group that leads the Students
-and keeps them on track.
+Find a StudyShare nearby or across the country. Don't pay for your cost of living until you get a job through your approved ISA school. StudyShare is a novel way to attend a life changing bootcamp program without having to worry about covering your monthly expenses.
 
-When the students have completed the cohort they are then eligible to be an SME in that same
-program. This self replicating model of SME & Students is a core component to making
-study StudyShare grow.
+Hosts from around the country are ready to provide you with a safe and calm learning environment while you focus on school. You'll have your own spending cash and may get a chance to explore a new part of the country.
 
-Companies and brands can use StudyShare to build custom cohort models for things like Employee
-& customer onboarding and trainings. Though cohort learning is proven to be a superior
-method to individualized learning for many, the methods and frameworks weren't readily available
-until now.
+StudyShare was formed with the goal of removing all barriers to getting into a higher paying career, not matter who you are. If you don't get a job through your approved ISA school you won't own your host a dime. We're all investing in you because we believe you have the capacity to do anything.
+
+Take the leap to change your life, and we'll find a soft bed for you to rest on. 
